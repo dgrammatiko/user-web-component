@@ -1,0 +1,29 @@
+{
+  "name": "user-web-component",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node_modules/.bin/rollup -c rollup.config.js",
+    "dev": "node_modules/.bin/serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgrammatiko/user-web-component.git"
+  },
+  "author": "Dimitrios Grammatikogiannis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dgrammatiko/user-web-component/issues"
+  },
+  "homepage": "https://github.com/dgrammatiko/user-web-component#readme",
+  "dependencies": {
+    "uhtml": "^1.12.0"
+  },
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^8.0.1",
+    "rollup": "^2.16.1",
+    "serve": "^11.3.2"
+  }
+}
