@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/dgrammatiko/user-web-component#readme",
   "dependencies": {
-    "uhtml": "^2.0.0"
+    "uhtml": "^3.0.0"
   },
   "devDependencies": {
     "@rollup/plugin-node-resolve": "13.3.0",
