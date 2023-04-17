@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "@rollup/plugin-node-resolve": "15.0.2",
-    "rollup": "3.20.3",
+    "rollup": "3.20.4",
     "serve": "14.2.0"
   }
 }
